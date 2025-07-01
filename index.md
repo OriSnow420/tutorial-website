@@ -24,24 +24,29 @@ Visit [THUASTA website] for more information.
         <td rowspan="2">7/5</td>
         <td> Morning </td>
         <td> Git </td>
+        <td> [Git]({% link git.md %}) </td>
     </tr>
     <tr>
         <td>Afternoon</td>
         <td> Linux </td>
+        <td> [Linux]({% link linux.md %}) </td>
     </tr>
     <tr>
         <td rowspan="2">7/6</td>
         <td> Morning </td>
         <td> Software Engineering (1) </td>
+        <td> [SE]({% link SE.md %}) </td>
     </tr>
     <tr>
         <td>Afternoon</td>
         <td> Python </td>
+        <td> [Python]({% link python.md %}) </td>
     </tr>
     <tr>
         <td rowspan="2">7/7</td>
         <td> Morning </td>
         <td> Reinforcement Learning </td>
+        <td> [RL]({% link RL.md %}) </td>
     </tr>
     <tr>
         <td>Afternoon</td>
