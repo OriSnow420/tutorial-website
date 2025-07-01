@@ -6,6 +6,8 @@ logo: "/assets/images/thuasta.png"
 
 url: https://orisnow420.github.io/tutorial-website/
 
+enable_copy_code_button: true
+
 aux_links:
   GitHub: https://github.com/OriSnow420/tutorial-website
   THUASTA: https://thuasta.org/
